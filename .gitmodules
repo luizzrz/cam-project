@@ -1,0 +1,6 @@
+[submodule "Hypostasis"]
+	path = Hypostasis
+	url = https://github.com/UnknownX7/Hypostasis.git
+[submodule "SamplePlugin/Hypostasis"]
+	path = SamplePlugin/Hypostasis
+	url = https://github.com/UnknownX7/Hypostasis.git
